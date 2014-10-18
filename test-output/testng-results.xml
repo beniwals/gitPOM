@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19679" started-at="2014-10-18T13:36:07Z" finished-at="2014-10-18T13:36:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19679" started-at="2014-10-18T13:36:07Z" finished-at="2014-10-18T13:36:27Z">
+      <class name="foo.AppTest">
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:foo.AppTest@206f5f03]" name="searchTest" duration-ms="19662" started-at="2014-10-18T19:06:07Z" finished-at="2014-10-18T19:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+      </class> <!-- foo.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
